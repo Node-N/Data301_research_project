@@ -1,4 +1,4 @@
-# Data301_research_project
+# Data301 research project
 
 Exploring geopolilical alliances by running bisecting k-means analysis on the tone of articles towards actors in the Syrian Civil War.
 
